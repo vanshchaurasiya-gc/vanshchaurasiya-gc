@@ -1,12 +1,15 @@
 ## Hi there 👋
 
-I'm currently working on NOVA App Builder where I work on making the app builder, the skills and mcp tool more robust, optimal and efficient at work
+<!-- I'm currently working on NOVA App Builder where I work on making the app builder, the skills and mcp tool more robust, optimal and efficient at work -->
 
 ![](https://github-readme-stats.vercel.app/api?username=vanshchaurasiya-gc&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+<!-- 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshchaurasiya-gc&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vanshchaurasiya-gc&theme=dark&hide_border=true)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vanshchaurasiya-gc&custom_title=Vansh%20Chaurasiya%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=vanshchaurasiya-gc&custom_title=Vansh%20Chaurasiya%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark_github)
+<!--[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vanshchaurasiya-gc&custom_title=Vansh%20Chaurasiya%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=vanshchaurasiya-gc&custom_title=Vansh%20Chaurasiya%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark_github)
+-->
 
 <!--
 **vanshchaurasiya-gc/vanshchaurasiya-gc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
