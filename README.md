@@ -2,7 +2,7 @@
 
 <!-- I'm currently working on NOVA App Builder where I work on making the app builder, the skills and mcp tool more robust, optimal and efficient at work -->
 
-![](https://github-readme-stats.vercel.app/api?username=vanshchaurasiya-gc&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=vanshchaurasiya-gc&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 <!-- 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshchaurasiya-gc&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 -->
